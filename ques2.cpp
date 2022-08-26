@@ -1,3 +1,7 @@
+//set 1 
+//hriday
+//2010990300
+
 #include<bits/stdc++.h>
 using namespace std;
  
